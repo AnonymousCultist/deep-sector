@@ -1,0 +1,409 @@
+body 
+    {background-color: rgb(0, 0, 0);}
+    
+.main-section
+    {background-color: rgba(127, 255, 212, 0.349);
+    border-radius: 20px;
+    height: max-content;
+    width: 400px;
+    text-align: center;
+    border-color: black;
+    border-style: solid;}
+
+.user-input
+    {margin-top: 10px;
+    margin-left: 40px;
+    margin-right: 50px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 20%;
+    font-size: x-large;
+    color: black;
+    border-color: lime;}
+
+.submit-btn
+    {margin-top: 10px;
+    margin-left: 40px;
+    margin-right: 50px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 20%;
+    font-size: x-large;
+    border-color: lime;
+    color: rgb(123, 123, 123);}
+
+.post-btn
+    {margin-top: 10px;
+    margin-left: 40px;
+    margin-right: 50px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 20%;
+    font-size: x-large;
+    border-color: lime;
+    color: rgb(0, 0, 0);
+    background-color: crimson;}
+
+label
+    {font-size: x-large;}
+
+p
+    {font-size: larger;}
+
+.logo-image
+    {width: 100px;
+    border-radius: 50px;
+    margin-top: -30px;
+    border-style: dotted;
+    border-color: crimson;}
+
+.title-section
+    {background-color: rgba(0, 0, 0, 0.548);
+    font-size: x-large;
+    border-radius: 10px;
+    padding: 5px;
+    border-color: black;
+    border-style: solid;
+    margin-top: 35px;
+    height: 60px;
+    color: rgb(0, 195, 0);
+    border-color: lime;
+    width: 97%;}
+
+select
+    {font-size: x-large;
+    border-radius: 10px;
+    border-style: solid;
+    text-align: center;
+    background-color: rgb(0, 0, 0);}
+
+.menu-section
+    {border-radius: 10px;
+    height: max-content;
+    background-color: rgba(0, 0, 0, 0.548);
+    float: right;
+    margin-top: -80px;
+    margin-right: 140px;
+    border-color: lime;
+    color: rgb(0, 195, 0);}
+
+.text-indent
+    {text-indent: 20px;
+    color: rgb(0, 195, 0);}
+
+.quote
+    {margin-top: -80px;
+    width: 400px;
+    height: auto;
+    margin-left: 450px;
+    color: rgba(0, 0, 0, 0.5);
+    color: rgba(0, 195, 0, 0.701)}
+
+.menu-button
+    {display: inline-block;
+    position: absolute;
+    min-width: 140px;
+    height: max-content;
+    font-size: xx-large;
+    z-index: 1;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    border-style: solid;
+    border-color: lime;
+    color: rgb(0, 195, 0);
+    margin-left: -22px;
+    border-width: 4px;}
+
+.dropdown-menu
+    {position: relative;
+    display: inline-block;
+    font-size: xx-large;;
+    width: max-content;}
+
+.dropdown-content
+    {font-size: x-large;
+    display: none;
+    min-width: 135px;
+    padding: 10px;
+    z-index: 0;
+    border-left-style: solid;
+    border-right-style: solid;
+    border-top-style: solid;
+    border-color: lime;
+    text-align: left;
+    margin-left: -8px;
+    background-color: rgb(0, 0, 0);}
+
+.dropdown-bottom
+    {border-style: solid;
+    border-top-style: solid;
+    border-color: lime;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    display: none;
+    font-size: x-large;
+    text-align: left;
+    padding: 10px;
+    margin-left: -8px;
+    background-color: rgb(0, 0, 0);}
+
+.menu-button:hover .dropdown-content
+    {display: block;}
+
+.menu-button:hover .dropdown-bottom
+    {display: block;}
+
+.menu-button:hover
+    {background-color: rgb(255, 0, 0);
+    color: black;}
+
+.dropdown-content:hover
+    {color: rgb(235, 18, 148);
+    background-color: rgb(43, 43, 43);}
+
+.dropdown-bottom:hover
+    {color: rgb(235, 18, 148);
+    background-color: rgb(43, 43, 43);}
+
+.account-info
+    {background-color: rgb(219, 0, 0);
+    font-size: x-large;
+    text-align: center;
+    border-style: solid;
+    margin: auto;
+    color: rgb(0, 0, 0);
+    border-color: lime;
+    border-radius: 5px;
+    width: 300px;}
+
+h1
+    {margin-top: -80px;
+    margin-left: 120px;}
+
+th
+    {font-size: larger;}
+
+.menu-bar
+    {background-color: rgb(100, 104, 102);
+    text-align: right;
+    border-radius: 20px;
+    width: 280%;}
+
+.menu-button2:hover
+    {background-color: rgb(160, 160, 160);
+    font-size: x-large;
+    padding: 10px;
+    border-radius: 20px;}
+
+.centered
+    {text-align: center;
+    margin: auto;}
+
+.blackout-trojan
+    {width: 5000px;
+    height: 4000px;
+    padding: 500px;
+    background-color: black;
+    margin-left: -400px;
+    margin-top: -400px;
+    border-color: black;
+    border-style: solid;
+    cursor: default;}
+
+.hidden-text
+    {color: black;}
+
+.picture
+    {width: 200px;
+    border-radius: 100px;
+    animation-name: pic;
+    animation-iteration-count: infinite;
+    animation-duration: 5s;}
+
+@keyframes pic
+    {from{transform: scale(0%);}
+    to{transform: scale(100%);}}
+
+.animation-box
+    {background-color: black;
+    width: 370px;
+    height: 350px;
+    text-align: center;
+    margin: auto;
+    margin-top: -200px;
+    z-index: 1;
+    transition-duration: 5s;
+    transform: scale(100%);}
+
+.animation-text
+    {color: rgb(0, 255, 38);
+    text-align: center;
+    margin: auto;
+    max-width: 390px;
+    z-index: 0;
+    position: (20,20);}
+
+.animation-box:hover 
+    {transform: scale(0%);}
+
+.message-board
+    {background-color: rgb(0, 0, 0);
+    font-size: large;
+    text-align: center;
+    border-style: solid;
+    color: rgb(0, 195, 0);
+    border-left-color: rgb(96, 96, 96);
+    border-radius: 20px;
+    border-right-color: rgb(96, 96, 96);
+    border-top-color: rgb(0, 0, 0);
+    border-bottom-color: rgb(0, 0, 0);
+    width: 90%;
+    height: 400px;
+    z-index: 1;
+    position: inherit;
+    margin: auto;}
+
+.message-board-contents
+    {box-sizing: border-box;
+    overflow: auto;
+    height: 90%;
+    z-index: 0;
+    width: 98%;
+    text-align: center;
+    margin: auto;}
+
+.user-input2
+    {background-color: rgb(0, 0, 0);
+    border-radius: 20%;
+    font-size: x-large;
+    color: rgb(212, 210, 210);
+    border-color: lime;
+    transition-duration: 1s;}
+
+.user-input2:active
+    {transform: scale(200%);}
+
+.public-post
+    {background-color: rgb(0, 0, 0);
+    text-align: left;
+    border-style: solid;
+    bottom: 20px;
+    color: rgb(0, 195, 0);
+    border-color: lime;
+    border-radius: 20px;
+    width: 550px;
+    height: 50px;
+    z-index: 1;}
+
+.message-board-top
+    {background-color: rgb(0, 0, 0);
+    font-size: large;
+    text-align: center;
+    border-style: solid;
+    margin: auto;
+    color: rgb(0, 195, 0);
+    border-color: lime;
+    border-radius: 20px;}
+
+.green-text
+    {color: lime;
+    font-size: medium;}
+
+hr
+    {border-color: crimson;}
+
+.bottom-page
+    {color: rgb(0, 189, 0);
+    position: relative;
+    bottom: 20px;}
+
+.small-font
+    {font-size: medium;}
+
+.link-highlight
+    {font-size: x-large;
+    background-color: crimson;
+    color: black;}
+
+.link-highlight2
+    {font-size: medium;
+    background-color: crimson;
+    color: black;
+    padding: 5px;}
+
+.black-highlight
+    {background-color: black;
+    border-radius: 5px;
+    padding: 3px;
+    padding-top: 0px;}
+
+.warning
+    {font-size: x-large;
+    background-color: crimson;
+    color: black;
+    text-align: center;
+    margin: auto;
+    width: max-content;
+padding: 5px;}
+
+.green-text2
+    {color: lime;
+    font-size: medium;
+    background-color: rgb(50, 50, 50);
+    border-radius: 10px;
+    padding: 5px;
+    width: 97%;}
+
+.green-text3
+    {color: lime;
+    font-size: large;
+    background-color: rgb(50, 50, 50);
+    border-radius: 10px;
+    padding: 5px;
+    width: 75%;
+    text-align: center;
+    margin: auto;}
+
+.branch-list
+    {color: lime;
+    font-size: x-large;
+    background-color: rgb(66, 0, 0);
+    border-radius: 10px;
+    padding: 10px;
+    width: 75%;
+    margin: auto;
+    text-indent: 20px;
+    border-color: rgb(0, 189, 0);
+    border-style: solid;}
+
+.green-text-larger
+    {color: lime;
+    font-size: x-large;}
+
+.message-board2
+    {background-color: rgb(0, 0, 0);
+    font-size: large;
+    text-align: center;
+    border-style: solid;
+    color: rgb(0, 195, 0);
+    border-left-color: rgb(96, 96, 96);
+    border-radius: 20px;
+    border-right-color: rgb(96, 96, 96);
+    border-top-color: rgb(0, 0, 0);
+    border-bottom-color: rgb(0, 0, 0);
+    width: 90%;
+    height: 430px;
+    z-index: 1;
+    position: inherit;
+    margin: auto;}
+    
+.green-text-larger2
+    {color: lime;
+    font-size: x-large;
+    text-align: center;
+    margin-left: 70px;
+    border-color: rgb(0, 189, 0);}
+
+.red-text
+    {color: crimson;
+    font-size: x-large;
+    text-align: center;
+    margin-left: 70px;}
