@@ -89,10 +89,10 @@ select
     color: rgb(0, 195, 0);}
 
 .quote
-    {margin-top: -80px;
+    {margin-top: -50px;
     width: 400px;
     height: auto;
-    margin-left: 400px;
+    margin-left: 50%;
     color: rgba(0, 0, 0, 0.5);
     color: rgba(0, 195, 0, 0.701)}
 
