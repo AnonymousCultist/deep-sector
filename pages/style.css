@@ -402,6 +402,11 @@ padding: 5px;}
     margin-left: 70px;
     border-color: rgb(0, 189, 0);}
 
+.big_box
+    {min-width: 100%;
+    z-index: 1;
+    position: absolute;}
+
 .red-text
     {color: crimson;
     font-size: x-large;
