@@ -109,7 +109,7 @@ select
     border-style: solid;
     border-color: lime;
     color: rgb(0, 195, 0);
-    margin-left: -22px;
+    margin-left: -27px;
     border-width: 4px;}
 
 .dropdown-menu
@@ -129,7 +129,7 @@ select
     border-top-style: solid;
     border-color: lime;
     text-align: left;
-    margin-left: -8px;
+    margin-left: -13px;
     background-color: rgb(0, 0, 0);}
 
 .dropdown-bottom
@@ -142,7 +142,7 @@ select
     font-size: x-large;
     text-align: left;
     padding: 10px;
-    margin-left: -8px;
+    margin-left: -13px;
     background-color: rgb(0, 0, 0);}
 
 .menu-button:hover .dropdown-content
