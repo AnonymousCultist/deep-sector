@@ -413,9 +413,9 @@ hr
     margin-left: 70px;}
 
 .green-text-larger-highlighted
-    {color: indigo;
+    {color: black;
     font-size: x-large;
-    font: bold;
+    font-style: bold;
     background-color: crimson;
     padding: 5px;
     border-radius: 3px;}
