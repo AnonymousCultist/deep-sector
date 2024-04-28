@@ -415,6 +415,7 @@ hr
 .green-text-larger-highlighted
     {color: indigo;
     font-size: x-large;
+    font: bold;
     background-color: crimson;
     padding: 5px;
     border-radius: 3px;}
