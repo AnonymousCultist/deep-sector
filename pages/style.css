@@ -420,8 +420,8 @@ hr
     border-radius: 3px;}
 
 .saved-branches-box
-    {margin-left: 50%;
-    margin-top: 160px;}
+    {float: left;
+    margin: 50%;}
 
 .green-text-larger22
     {color: lime;
