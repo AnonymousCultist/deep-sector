@@ -79,7 +79,7 @@ select
 .menu-section
     {border-radius: 10px;
     height: max-content;
-    background-color: rgba(0, 0, 0, 0.548);
+    background-color: rgb(0, 0, 0);
     float: right;
     margin-top: -60px;
     margin-right: 140px;
