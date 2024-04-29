@@ -312,7 +312,7 @@ hr
 .bottom-page
     {color: rgb(0, 189, 0);
     position: fixed;
-    bottom: 0;}
+    bottom: 20px;}
 
 .small-font
     {font-size: medium;}
