@@ -54,7 +54,7 @@ p
     border-style: dotted;
     border-color: crimson;}
 
-.title-section
+#header
     {background-color: rgba(0, 0, 0, 0.548);
     font-size: large;
     border-radius: 10px;
@@ -310,7 +310,7 @@ th
 hr
     {border-color: crimson;}
 
-#footer
+.bottom-page
     {color: rgb(0, 189, 0);
     position: absolute;
     bottom: 20px;}
