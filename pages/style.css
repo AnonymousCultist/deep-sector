@@ -314,8 +314,7 @@ hr
 
 .bottom-page
     {color: rgb(0, 189, 0);
-    position: absolute;
-    bottom: 20px;}
+    margin-bottom: 20px;}
 
 .small-font
     {font-size: medium;}
