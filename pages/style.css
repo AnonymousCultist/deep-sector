@@ -392,7 +392,7 @@ hr
     border-bottom-color: rgb(0, 0, 0);
     width: 90%;
     height: 430px;
-    z-index: 1;
+    z-index: 0;
     position: inherit;
     margin: auto;}
     
