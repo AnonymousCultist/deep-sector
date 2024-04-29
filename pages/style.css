@@ -423,7 +423,8 @@ hr
 
 .saved-branches-box
     {float: left;
-    margin-left: 50%;}
+    margin-left: 50%;
+    margin-top: -50px;}
 
 .green-text-larger22
     {color: lime;
