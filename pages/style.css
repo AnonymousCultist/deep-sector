@@ -67,7 +67,8 @@ p
     border-color: lime;
     width: 97%;
     position: fixed;
-    z-index: 4}
+    z-index: 4;
+    top: 0;}
 
 select
     {font-size: x-large;
